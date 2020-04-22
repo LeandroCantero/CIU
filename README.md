@@ -1,5 +1,5 @@
 # CIU
 CIU activities
 
-**[First Blog](https://sleepy-goldstine-2762d9.netlify.app/)**
+**[First Blog](https://lucid-cray-e12e14.netlify.app/)**
 
