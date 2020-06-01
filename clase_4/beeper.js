@@ -10,5 +10,4 @@ var seEjecutaEvento = function(){
     p1.insertAdjacentHTML("beforeend", "<p>BEEP</p>")
     b.classList.toggle("color")
 }
-
 boton.addEventListener("click", seEjecutaEvento)
